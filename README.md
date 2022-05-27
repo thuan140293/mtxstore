@@ -157,7 +157,7 @@ MONGODB_URL=mongodb+srv://thuan1402:t0908711689@cluster0.ao4kprx.mongodb.net/?re
 
 # JWT
 # JWT secret key
-JWT_SECRET=2vd0l9DyyhbsD6rqwq+m3WdcT+mUPaGVxjllbeIkKppjngPjLgQEiqeU9/oXLRNMVB6jeXe2pVqE0lLAJsVmP3VZUo4IoqIppOuIIKWDdviB1j52b5W9nfiOcfcM517Id0ODKiKAQmHtbL0RimlI+D9JwhYVlQR8ulJBDtER1ocqrhSfSTkZa7k32HmCq9tH8BkzQ/i2bxKJMgYspVEb5bPVKTljF6yHOXEDtkkFTga/TmYuyAzCRD+3kYQjkCkT9Vp6pl8QScnEaxByJSwnpMZgdvNZOBSUMvDZQ1l2ECuEJyS586YONrMQD2EsPV2ZKbS50yHssXHhNMXgnAychA==
+JWT_SECRET=thisisasamplesecret
 # Number of minutes after which an access token expires
 JWT_ACCESS_EXPIRATION_MINUTES=30
 # Number of days after which a refresh token expires
